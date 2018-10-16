@@ -1,8 +1,5 @@
 # cyber•Drop graph
 
-## Interface
-![screenshot](about.png)
-
 ## Airdrop visualizations
 
 ### VinChain airdrop
